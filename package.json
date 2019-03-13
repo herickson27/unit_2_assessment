@@ -1,0 +1,23 @@
+{
+  "name": "unit_2_assessment",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hannah Erickson",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "pg": "^7.8.2",
+    "pj": "^0.3.5",
+    "request": "^2.88.0",
+    "sequelize": "^4.43.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
